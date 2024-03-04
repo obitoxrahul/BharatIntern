@@ -8,14 +8,8 @@
     -> npm i
 ```
 
-**To Start the Development server :**
+**To Start :**
 
 ```bash
- npm run dev
-```
-
-**To Start the Production server :**
-
-```bash
-npm run start
+node index.js
 ```
